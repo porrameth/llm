@@ -1,0 +1,1 @@
+This project was inspired by exercises from a DataCamp course(https://campus.datacamp.com/courses/multi-agent-systems-with-langgraph/langgraph-multi-agents?ex=6) I modified the workflow by adding new tools (yfinance, ddgs) and extending the functionality.
